@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Tomohiko - Junior Developer 👋
+
+### 🌱 Backend Development with Spring Framework
+### ⚡ Front-end development with React
+### :pencil: Relational and Non-relational databases
 
 <!--
 **Tomohiko10615/TOmohiko10615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
