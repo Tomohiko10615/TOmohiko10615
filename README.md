@@ -3,7 +3,7 @@
 As a developer I've done:
 
 - 🌱 Backend Development with Spring Framework
-- ⚡ Front-end development with React
+- ⚡ Front-end Development with React
 - :pencil: Relational and Non-relational databases
 
 I've also worked with the following technologies:
