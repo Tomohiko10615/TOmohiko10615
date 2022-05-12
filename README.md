@@ -19,7 +19,7 @@ I've also worked with the following technologies:
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-<h3>Here are the languages more I use:</h3>
+<h3>Here are the languages I've used more:</h3>
 <br>
 <div align="center">
 <a href="https://github.com/Tomohiko10615">
