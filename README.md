@@ -21,7 +21,7 @@ I've also worked with the following technologies:
 
 ## 👨‍💻 This week, I spent my time on:
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbejaCruz&theme=dark&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tomohiko10615&theme=dark&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Tomohiko10615/TOmohiko10615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
