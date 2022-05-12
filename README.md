@@ -19,9 +19,9 @@ I've also worked with the following technologies:
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-## Stats
+## 👨‍💻 This week, I spent my time on:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Tomohiko10615&show_icons=true&theme=dark) 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbejaCruz&theme=dark&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Tomohiko10615/TOmohiko10615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
