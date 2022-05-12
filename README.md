@@ -21,7 +21,7 @@ I've also worked with the following technologies:
 
 ## Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AbejaCruz&show_icons=true&theme=dark) 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Tomohiko10615&show_icons=true&theme=dark) 
 
 <!--
 **Tomohiko10615/TOmohiko10615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
