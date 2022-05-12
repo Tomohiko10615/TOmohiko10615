@@ -1,8 +1,8 @@
 ### Hi, I'm Tomohiko - Junior Developer 👋
 
-# 🌱 Backend Development with Spring Framework
-# ⚡ Front-end development with React
-# :pencil: Relational and Non-relational databases
+##### 🌱 Backend Development with Spring Framework
+##### ⚡ Front-end development with React
+##### :pencil: Relational and Non-relational databases
 
 :rocket: I've also worked with the following technologies:
 
