@@ -4,6 +4,8 @@
 ### ⚡ Front-end development with React
 ### :pencil: Relational and Non-relational databases
 
+### :rocket: I've also worked with the following technologies:
+
 <!--
 **Tomohiko10615/TOmohiko10615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
