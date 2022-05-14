@@ -14,7 +14,7 @@ I've also worked with the following technologies:
   <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61dafb" />
   <img src="https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-FFFFFF?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 <h3>Here are the languages I've used more:</h3>
